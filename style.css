@@ -20,6 +20,7 @@ width: 200px;
 height: 200px;
 transition: 0.5s;
 cursor: pointer;
+border-radius: 50vh;
 
 }
 .box img:hover{

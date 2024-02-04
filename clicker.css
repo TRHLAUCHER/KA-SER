@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(72, 74, 77);
+}
+
+.clicker-box{
+    width: 80.6vh;
+    background: #cdccd1;    
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: #000000;
+    font-family: sans-serif;
+    border-radius: 3vh;
+}
+
+.trnh-img{
+        border-radius: 50;
+        width: 200px;
+        height: 200px;
+        transition: 0.5s;
+        cursor: pointer;
+        
+}
+
+.trnh-img:hover{
+    transform: scale(0.7);
+}
+
+.autoclicker-img{
+    width: 500px;
+}
+
+.clicker-btn{
+    text-decoration: none;
+    font-size: 6vh;
+    display: inline-block;
+    background-color: rgb(4, 143, 50);
+    border-radius: 20vh;
+    width: 40%;
+    height: 7vh;
+    color: #ffffff;
+}
+
+.clicker-btn-2{
+text-decoration: none;
+display: inline-block;
+background-color: red;
+width: 40%;
+height: 7vh;
+border-radius: 20vh;
+color: white;
+}
